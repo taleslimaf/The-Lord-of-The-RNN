@@ -1,0 +1,6 @@
+model_checkpoint_path: "e15_i114540_l128.ckpt"
+all_model_checkpoint_paths: "e15_i111000_l128.ckpt"
+all_model_checkpoint_paths: "e15_i112000_l128.ckpt"
+all_model_checkpoint_paths: "e15_i113000_l128.ckpt"
+all_model_checkpoint_paths: "e15_i114000_l128.ckpt"
+all_model_checkpoint_paths: "e15_i114540_l128.ckpt"
