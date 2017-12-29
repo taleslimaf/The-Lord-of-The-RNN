@@ -6,4 +6,4 @@ I was a student of the Deep Learning Nanodegree Foundation course, so I picked u
 
 In this project I used the following books: “The Hobbit”, “The Silmarillion” and “The Lord of The Ring”. I can not share this books, so... I'm sorry. Despite that, I left the checkpoints for anyone to use.
 
-If you use my checkpoints, please share this github project.
+If you use my checkpoints, please share this GitHub project or the article in Medium ([The Lord of The RNN](https://medium.com/@taleslimaf/the-lord-of-the-rnn-52b937e4af93)).
